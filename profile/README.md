@@ -11,10 +11,6 @@ The Lotus Elan Registry started in January 2003. A thread on LotusElan.net asked
 
 ---
 
-Elan Registry traces its roots back to the original **Type 26 Register**, one
-of the earliest online resources for Elan owners — Lotus's internal project
-code for the Elan was "Type 26."
-
 ## Thanks
 
 Thank you to the many people on the Elan mailing list and the Elan forums who have helped with the registry. The group has helped with testing, providing pictures, provided feedback on what should be included, and kept me motivated to improve the site. This is their work. I am just the one who assembled the pieces.
